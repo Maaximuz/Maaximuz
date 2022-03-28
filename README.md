@@ -1,8 +1,8 @@
 ### Olá, eu sou o Diogo! 👋
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dc.britto/)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-c%C3%A9sar-moreira-de-britto-b43602192/)
+
 ## Specs PC
 
 <div style="display: inline_block"><br />
