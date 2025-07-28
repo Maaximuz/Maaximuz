@@ -32,6 +32,6 @@ Desenvolvedor Full Stack com mais de 4 anos de experiência em tecnologias web. 
 ## 🖥️ Setup Pessoal
 
 <div style="display: inline_block"><br />
-  <img align="center" src="[https://img.shields.io/badge/AMD-Ryzen_5_2600-ED1C24?style=for-the-badge&logo=amd&logoColor=white](https://img.shields.io/badge/AMD-Ryzen_7_5800XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)" />
+  <img align="center" src="[https://img.shields.io/badge/AMD-Ryzen_7_5800XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white](https://img.shields.io/badge/AMD-Ryzen_7_5800XT-ED1C24?style=for-the-badge&logo=amd&logoColor=white)" />
   <img align="center" src="https://img.shields.io/badge/AMD-RX_580_8GB-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
 </div>
