@@ -23,7 +23,7 @@ Desenvolvedor Full Stack com mais de 4 anos de experiência em tecnologias web. 
 
 ## 🧠 Estatísticas GitHub
 
-![Diogo GitHub stats](https://https://gh-dcbritto.vercel.app/api?username=Maaximuz&show_icons=true&theme=tokyonight&count_private=true)
+![Diogo GitHub stats](https://gh-dcbritto.vercel.app/api?username=Maaximuz&show_icons=true&theme=tokyonight&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maaximuz&layout=compact)](https://github.com/Maaximuz/github-readme-stats)
 
